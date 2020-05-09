@@ -40,7 +40,7 @@ pages:
       showWaveform: true
       enableLooping: true 
       reference: configs/resources/audio/LocAcc_Horiz_7.1.4/At_Speaker/7.1.4_speaker_ref.wav 
-      createAnchor35: true
+      createAnchor35: false
       createAnchor70: false
       stimuli: 
           C1: configs/resources/audio/LocAcc_Horiz_7.1.4/At_Speaker/7.1.4_AllRad_speaker.wav 
@@ -53,7 +53,7 @@ pages:
       showWaveform: true
       enableLooping: true 
       reference: configs/resources/audio/LocAcc_Horiz_7.1.4/Between_Speaker/7.1.4_between_ref.wav
-      createAnchor35: true
+      createAnchor35: false
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/LocAcc_Horiz_7.1.4/Between_Speaker/7.1.4_AllRad_between.wav
@@ -66,7 +66,7 @@ pages:
       showWaveform: true
       enableLooping: true 
       reference: configs/resources/audio/LocAcc_Elev_7.1.4/At_Speaker/7.1.4_speaker_elev_ref.wav 
-      createAnchor35: true
+      createAnchor35: false
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/LocAcc_Elev_7.1.4/At_Speaker/7.1.4_AllRad_speaker_elev.wav 
@@ -79,7 +79,7 @@ pages:
       showWaveform: true
       enableLooping: true 
       reference: configs/resources/audio/LocAcc_Elev_7.1.4/Between_Speakers/7.1.4_between_elev_ref.wav
-      createAnchor35: true
+      createAnchor35: false
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/LocAcc_Elev_7.1.4/Between_Speakers/7.1.4_AllRad_between_elev.wav
